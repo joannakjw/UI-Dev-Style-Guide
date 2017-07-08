@@ -47,8 +47,8 @@ $blue | $black | 90deg | main background
 
 TAG          |FONT           | $SIZE         | REM           | $COLOR        | BOLD          | ITALIC        | UPPERCASE     | DESCRIPTION   
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-H1         |Source Sans Pro  | $size-1       | 3em            |  $white        | x     |      |  x     | Main headings
-H2         | Source Sans Pro  | $size-2        |  2.5rem      | $green            |        |x   |  | Sub-heading   
+H1           |Source Sans Pro  | $size-1     | 3em           |  $white       | x             |               |  x            | Main headings
+H2           | Source Sans Pro | $size-2     |  2.5rem       | $green        |               |x              |               | Sub-heading   
 
 
 ***
